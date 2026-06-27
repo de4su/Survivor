@@ -5,11 +5,6 @@ Built under a strict 7-day time limit, this project was driven by three main obj
 ## About the Game
 This is a fast-paced, Vampire Survivors-style roguelike built entirely in Unreal Engine 5. Players must survive relentless hordes of enemies while leveling up and acquiring new abilities. 
 
-**Key Features:**
-*   **Dynamic Level-Up System:** A custom "Casino Slot Machine" style roulette UI for granting randomized abilities.
-*   **Massive Open World:** Built using World Partition and featuring ultra-high definition (8K) terrain and grass textures.
-*   **Custom Post-Processing:** Features a custom-built Kuwahara Oil Painting filter shader that turns the entire game into a living, real-time painting.
-*   **Optimized Performance:** Carefully structured to handle massive enemy swarms while maintaining frame rates.
 
 ## The Team
 This project was brought to life by a collaborative team of developers:
