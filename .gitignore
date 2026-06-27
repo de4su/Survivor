@@ -6,3 +6,11 @@ Saved/
 .vs/
 *.sln
 this.txt
+Content/GrassMat/Texture/T_GrassMat6_ambientocclusion.uasset
+
+# Ignored large plugins/content as requested
+Content/StarterContent/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+Content/Bandit/
+Content/Polyart/
